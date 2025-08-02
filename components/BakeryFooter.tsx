@@ -98,13 +98,11 @@ const BakeryFooter = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <span className="text-gray-600">📞</span>
-                <span className="text-foreground">+9209077225</span>
+                <span className="text-foreground">+9516324587</span>
               </div>
               <div className="flex items-center space-x-2">
                 <span className="text-gray-600">✉️</span>
-                <span className="text-foreground">
-                  rishipardeshi567@gmail.com
-                </span>
+                <span className="text-foreground">sweek@bliss.com</span>
               </div>
             </div>
           </div>
